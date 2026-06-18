@@ -1,0 +1,23 @@
+{
+  "parsed_movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_page_count": 10,
+  "category_distribution": {
+    "经典影片馆": 200,
+    "亚洲精选馆": 200,
+    "高分口碑馆": 200,
+    "动作冒险馆": 200,
+    "爱情剧情馆": 200,
+    "悬疑犯罪馆": 200,
+    "科幻奇幻馆": 200,
+    "喜剧家庭馆": 200,
+    "动画剧集馆": 200,
+    "持续更新馆": 200
+  },
+  "hls_source_count_extracted_from_original_js": 20,
+  "html_page_count": 2014,
+  "jpg_files_in_zip": 0,
+  "logo": "亚洲经典影片",
+  "baidu_script_inserted": true,
+  "generated_at": "2026-05-26T04:49:04"
+}
